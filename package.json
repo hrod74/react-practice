@@ -1,0 +1,27 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "practice react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrod74/react-practice.git"
+  },
+  "author": "Eddie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrod74/react-practice/issues"
+  },
+  "homepage": "https://github.com/hrod74/react-practice#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.8",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-open": "^2.0.0"
+  }
+}
